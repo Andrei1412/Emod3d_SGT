@@ -1,0 +1,10 @@
+filelist=../../../FwdSims/V3.0.7-xyz/merge_filelist.txt
+#n_comps=6
+#comp_names=exxp,eyyp,eii3,exyp,exzp,eyzp
+#comp_names=exx,eyy,ezz,exy,exz,eyz
+n_comps=9
+comp_names=vx,vy,vz,exx,eyy,ezz,exy,exz,eyz
+outdir=../../../FwdSims/V3.0.7-xyz/OutBin
+outfile_root=fwd01_xyzts
+logdir=Mlog
+logname=fwd01
